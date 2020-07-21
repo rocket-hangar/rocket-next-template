@@ -51,8 +51,11 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Build
+      - name: Build App
         run: npm run build
+
+      - name: Build Packages
+        run: npm run pack
 
       - name: Lint
         run: npm run lint
