@@ -2,8 +2,8 @@
 
 ## Use template
 
-[Generate a Project](https://github.com/rocket-hangar/rocket-punch-template/generate)
-[Open in CodeSandbox](https://githubbox.com/rocket-hangar/rocket-next-template)
+- [Generate a Project](https://github.com/rocket-hangar/rocket-punch-template/generate)
+- [Open in CodeSandbox](https://githubbox.com/rocket-hangar/rocket-next-template)
 
 ## Scripts
 
