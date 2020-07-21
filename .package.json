@@ -1,0 +1,10 @@
+{
+  "author": "Your Name <mail@domain.com>",
+  "license": "MIT",
+  "repository": "github:your-id/your-repo",
+  "bugs": "https://github.com/your-id/your-repo/issues",
+  "homepage": "https://github.com/your-id/your-repo/tree/master/src/{name}",
+  "publishConfig": {
+    "access": "public"
+  }
+}

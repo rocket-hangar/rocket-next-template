@@ -1,0 +1,21 @@
+{
+  "author": "Your Name <mail@domain.com>",
+  "license": "MIT",
+  "repository": "github:your-id/your-repo",
+  "bugs": "https://github.com/your-id/your-repo/issues",
+  "homepage": "https://github.com/your-id/your-repo/tree/master/src/@ssen-temp/sample-next-component",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "name": "@ssen-temp/sample-next-component",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "^16.12.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=14"
+  }
+}
