@@ -14,6 +14,9 @@ module.exports = {
     'ts-jest': {
       ...jestPreset.globals['ts-jest'],
       isolatedModules: true,
+      tsConfig: {
+        jsx: 'react',
+      },
     },
   },
 };
